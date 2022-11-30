@@ -1,0 +1,21 @@
+{
+  "name": "PlaywrightTests",
+  "version": "1.0.0",
+  "description": "Testing Web Automation",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joebiker/PlaywrightTests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joebiker/PlaywrightTests/issues"
+  },
+  "homepage": "https://github.com/joebiker/PlaywrightTests#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.28.1"
+  }
+}
